@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/newspaper3k_haystack/__init__.py
+src/newspaper3k_haystack/newspaper3k_haystack.py
+src/newspaper3k_haystack.egg-info/PKG-INFO
+src/newspaper3k_haystack.egg-info/SOURCES.txt
+src/newspaper3k_haystack.egg-info/dependency_links.txt
+src/newspaper3k_haystack.egg-info/requires.txt
+src/newspaper3k_haystack.egg-info/top_level.txt

@@ -1,0 +1,1 @@
+from .newspaper3k_haystack import newspaper3k_scraper, newspaper3k_crawler
