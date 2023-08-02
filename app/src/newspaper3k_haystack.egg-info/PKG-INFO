@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: newspaper3k-haystack
-Version: 0.0.3
+Version: 0.1.0
 Summary: A simple newspaper3k haystack node wrapper. A node for scraping articles given a link and a crawler.
 Home-page: https://github.com/Haradai/newspaper3k_haystack
 Author: Josep Maria Rocafort

@@ -1,0 +1,4 @@
+haystack
+newspaper3k
+beautifulsoup4
+tqdm
