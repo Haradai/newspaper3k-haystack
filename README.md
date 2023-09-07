@@ -10,7 +10,7 @@ pip install newspaper3k-haystack
 ## Usage:
 ### Scraper node:
 ```
-from newspaper3k-haystack import newspaper3k_scraper
+from newspaper3k_haystack import newspaper3k_scraper
 scraper = newspaper3k_scraper()
 
 ```
