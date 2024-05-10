@@ -161,6 +161,7 @@ class newspaper3k_scraper(BaseComponent):
             }
         
         if metadata:
+            document_dict["meta"]["title"] = article.title
             document_dict["meta"]["authors"] = article.authors
             document_dict["meta"]["publish_date"] = article.publish_date
             document_dict["meta"]["movies_url"] = article.movies
